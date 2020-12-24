@@ -47,6 +47,12 @@ hr{
   margin: 100px auto;
 }
 
+.description{
+  width: 60%;
+  text-align: left;
+  margin: auto;
+}
+
 .copyright{
   color: #EAF6F6;
   font-size: 0.75rem;
